@@ -17,6 +17,8 @@ PCM5122が作り出す高品質なオーディオやカラーTFTディスプレ�
 
 ## [使い方](https://bit-trade-one.co.jp/dacusermanual/)
 
+## [FAQ](https://github.com/bit-trade-one/ADRPM1902_RasPi_Hi-Res_DAC/blob/master/FAQ.md)
+
 ## 製品仕様
 
 【対象Raspberry Pi】Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B/Raspberry Pi 3 Model B+  
