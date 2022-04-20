@@ -1,3 +1,3 @@
- - raspi_dac_v11_20171221_sch_noinfo.pdf メイン基板の回路図です。
- - pcm5122mod_20171220_sch.pdf PCM5122サブ基板の回路図です。
- - systemclock_sch.pdf クロックモジュール基板の回路図です。
+ - [raspi_dac_v11_20171221_sch_noinfo.pdf](https://github.com/bit-trade-one/ADRPM1902_RasPi_Hi-Res_DAC/blob/master/schematics/raspi_dac_v11_20171221_sch_noinfo.pdf) メイン基板の回路図です。
+ - [pcm5122mod_20171220_sch.pdf](https://github.com/bit-trade-one/ADRPM1902_RasPi_Hi-Res_DAC/blob/master/schematics/pcm5122mod_20171220_sch.pdf) PCM5122サブ基板の回路図です。
+ - [systemclock_sch.pdf](https://github.com/bit-trade-one/ADRPM1902_RasPi_Hi-Res_DAC/blob/master/schematics/systemclock_sch.pdf) クロックモジュール基板の回路図です。
