@@ -1,0 +1,3 @@
+ - raspi_dac_v11_20171221_sch_noinfo.pdf メイン基板の回路図です。
+ - pcm5122mod_20171220_sch.pdf PCM5122サブ基板の回路図です。
+ - systemclock_sch.pdf クロックモジュール基板の回路図です。
