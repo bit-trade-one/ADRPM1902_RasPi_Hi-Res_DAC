@@ -13,6 +13,8 @@ PCM5122が作り出す高品質なオーディオやカラーTFTディスプレ�
 お手元のラズベリーパイが高性能なハイレゾDACに早変わりしてしまうこのボードで、  
 シングルボードコンピュータの奥深さを感じてみませんか？  
 
+## [ソフトウェア開発情報(外部サイト)](https://gogs.quake4.jp/yoneda/dacboard)
+
 ## [組み立てマニュアル](https://bit-trade-one.co.jp/dacbuildmanual/)
 
 ## [使い方](https://bit-trade-one.co.jp/dacusermanual/)
